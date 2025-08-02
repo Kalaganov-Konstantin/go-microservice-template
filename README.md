@@ -195,6 +195,6 @@ This project is licensed under the MIT License. Feel free to use it as a templat
 
 **⭐ Star this repo if it helped you build amazing microservices! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/microservice-framework?style=social)](https://github.com/yourusername/microservice-framework/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Kalaganov-Konstantin/go-microservice-template?style=social)](https://github.com/yourusername/microservice-framework/stargazers)
 
 </div>
